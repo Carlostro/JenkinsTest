@@ -1,9 +1,6 @@
-package test.java;
-
-import java.beans.Transient;
-
 import com.example.Application;
-
+import org.junit.test;
+import static org.junit.Assert.*;
 public class AppTest {
 
     @test

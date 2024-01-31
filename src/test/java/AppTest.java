@@ -1,9 +1,9 @@
 import com.example.Application;
-import org.junit.test;
+import org.junit.Test;
 import static org.junit.Assert.*;
 public class AppTest {
 
-    @test
+    @Test
 
     public void testApp(){
         Application myApp =new Application();
